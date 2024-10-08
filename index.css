@@ -1,6 +1,6 @@
 body {
 
-    background: linear-gradient(rgba(136, 136, 206, 0.7), rgba(136, 136, 206, 0.7)), url(imagenes/backgroud.jpeg);
+    background: linear-gradient(rgba(136, 136, 206, 0.7), rgba(136, 136, 206, 0.7)), url(.backgroud.jpeg);
     color: white;
     background-repeat: no-repeat;
     background-size: cover;
